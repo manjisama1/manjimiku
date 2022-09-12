@@ -1330,7 +1330,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Fantox to take your WhatsApp usage into next level.
+    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊 to take your WhatsApp usage into next level.
         
        「 System Info 」
     
@@ -1422,7 +1422,7 @@ case 'me': case 'profile': case 'p':
     
           } catch (e) {
      
-      pfp ='https://wallpapercave.com/wp/wp10524580.jpg'
+      pfp ='https://wallpapercave.com/uwp/uwp2694190.jpeg'
     }
 
      const profilexx = `*「  Profile Info  」*\n\n*User Name* : ${pushname}\n*Bio* : ${bioo}\n*Group Admin Status* : ${adn}\n*Level* : ${levelMenu}\n*Exp* : ${xpMenu} out of ${reqXp}\n*Role* : ${role}`
@@ -4812,10 +4812,10 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
-
+I am *Manji Bot*, a bot developed by *ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊*.
+〠Our official group-༺ https://chat.whatsapp.com/LI8W54b0N6L4MvF0HMm3sI ༻
 🔰 My prefix is:  ${prefix}
-
+𝗜𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗵𝗶𝘀 𝗯𝗼𝘁 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗰𝗼𝗻𝘁𝗮𝗰𝘁- » wa.me/919862727507 «
 Here's the list of my Commands.
 
 
@@ -4886,14 +4886,14 @@ qr, say, translate, fliptext, toletter
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊*
 
- 🔰 To use any of these commands type 
+ ⚡ To use any of these commands type 
  " *${prefix}<Command name>* ".
  
- 🔰 To get Support Group link type " *${prefix}support* ".
+ 
 
- 🔰 Type " *${prefix}help* " to get full command list.`
+ ⚡ Type " *${prefix}help* " to get full command list.`
     
 
  let buttonshelpm = [
@@ -4917,7 +4917,7 @@ case '':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
 
-      mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
+      mikupic ='https://wallpapercave.com/uwp/uwp2694190.jpeg'
     
         
  const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}help* to get my full command list.`
