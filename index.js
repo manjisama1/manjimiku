@@ -26,8 +26,8 @@ console.log(color(figlet.textSync('Miku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: FantoX001','aqua'))
+console.log(color('\nHello, I am ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊, the main developer of this bot.\n\nThanks for using: Manji Bot','aqua'))
+console.log(color('\nYou can follow me on GitHub: manjisama1','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Miku = MikuConnect({
@@ -72,7 +72,7 @@ Miku.ev.on('groups.update', async pea => {
        try {
        ppgc = await Miku.profilePictureUrl(pea[0].id, 'image')
        } catch {
-       ppgc = 'https://wallpapercave.com/wp/wp10524580.jpg'
+       ppgc = 'https://wallpapercave.com/uwp/uwp2694190.jpeg'
        }
        let wm_fatih = { url : ppgc }
        if (pea[0].announce == true) {
