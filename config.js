@@ -11,9 +11,9 @@ global.Owner = ['919862717507']
 global.OwnerNumber = ['919862717507']
 global.ownertag = ['919862717507']
 global.BotName = "ManjiBot"
-global.packname = "ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊"
+global.packname = "𝙼𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊"
 global.author = "ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊"
-global.OwnerName = "Fantox"
+global.OwnerName = "ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊"
 global.BotSourceCode = "https://instagram.com/manji_sama__?igshid=YmMyMTA2M2Y="
 global.SupportGroupLink = "https://chat.whatsapp.com/LI8W54b0N6L4MvF0HMm3sI"
 global.sessionName = "session"
