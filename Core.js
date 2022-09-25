@@ -4813,7 +4813,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
 I am *Manji Bot*, a bot developed by *ᯓ🇲𝚊𝚗𝚓𝚒 𝚂𝚊𝚖𝚊*.
-〠Our official group-༺ https://chat.whatsapp.com/LI8W54b0N6L4MvF0HMm3sI ༻
+〠Our official group-༺ https://chat.whatsapp.com/IJRi8GJiQ8UI3IAadSTVb6 ༻
 🔰 My prefix is:  ${prefix}
 𝗜𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗵𝗶𝘀 𝗯𝗼𝘁 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗰𝗼𝗻𝘁𝗮𝗰𝘁- » wa.me/919862727507 «
 Here's the list of my Commands.
